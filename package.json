@@ -1,0 +1,19 @@
+{
+  "name": "basic-node-js",
+  "version": "1.0.0",
+  "description": "repeat basic node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "NODEJS",
+    "JS"
+  ],
+  "author": "Mirzoev Dilshod <mdilshod1994@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
